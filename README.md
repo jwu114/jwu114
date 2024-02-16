@@ -2,7 +2,7 @@
 
 - 👋 You can call me Jerry. I'm a junior majoring in Computer Science at the University of Rochester.
 
-- 🐱 I'm a cat lover, and my hobbies include programming, traveling, listening to pop music and rap, watching movies, and playing video games.
+- 🐱 I'm a cat lover, and my hobbies include traveling, listening to pop music and rap, watching movies, and playing video games.
 
 - 🔍 My interests in CS topics are artificial intelligence, web development, blockchain, and cloud computing.
 
