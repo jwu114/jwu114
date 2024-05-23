@@ -2,9 +2,9 @@
 - 👋 You can call me Jerry. I'm a rising senior majoring in Computer Science at the University of Rochester.  
 - 🐱 I'm a cat lover, and my hobbies include traveling, listening to pop music and rap, watching movies, and playing video games.  
 - 🔍 My interests in CS topics are artificial intelligence, web development, blockchain, and cloud computing.  
-- 🌱 I hope to contribute to some open-source projects and also develop more of my own projects.
+- 🌱 I hope to contribute to some open-source projects and also develop more of my own projects here.
 
-## My Languages and Tech Stack:  
+## My Tech Stack:  
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -15,4 +15,9 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />  
+<br/>
+
+## GitHub Language Statistics:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwu114&hide=less,typescript)](https://github.com/anuraghazra/github-readme-stats)
+
