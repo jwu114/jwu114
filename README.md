@@ -19,6 +19,6 @@
 <br />
 <br />
 
-## GitHub Language Statistics:  
+## My GitHub Language Statistics:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwu114&hide=less,typescript)](https://github.com/anuraghazra/github-readme-stats)
 
