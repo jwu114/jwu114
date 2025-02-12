@@ -1,7 +1,7 @@
 # Hi, I’m Jiarui Wu  
 - 👋 You can call me Jerry. I'm enjoying the gap semester before my master's studies.
 - 🐱 I'm a cat lover, and my hobbies include fitness, reading books, watching videos, and listening to pop music.  
-- 🔍 My current interests in CS topics are artificial intelligence and web development. My past research experience focused on MLLM and generative AI.
+- 🔍 My current interests in CS are artificial intelligence and software development. My research experience focused on MLLM and generative AI.
 - 🌱 I hope to contribute to some open-source projects and also develop more of my own projects here.
 
 ## My Tech Stack:  
