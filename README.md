@@ -2,7 +2,7 @@
 - 👋 You can call me Jerry. I'm enjoying the gap semester before my master's studies.
 - 🐱 I'm a cat lover, and my hobbies include fitness, reading books, watching videos, and listening to pop music.  
 - 🔍 I'm interested in artificial intelligence and software development. My past research focused on MLLM and generative AI.
-- 🏠 Welcome to my homepage: <a href="https://jwu114.github.io/portfolio/" target="_blank">jwu114.github.io/portfolio<a>
+- 🏠 Welcome to my homepage: <a href="https://jwu114.github.io" target="_blank">jwu114.github.io<a>
 
 ## My Tech Stack:  
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
