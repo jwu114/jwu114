@@ -4,7 +4,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+Researcher;LLM+Enthusiast;Amateur+Full-Stack+Developer;Never+Stop+Learning;Always+Love+Life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Studying+CS;Researching+AI;LLM+Enthusiast;Amateur+Full-Stack+Developer;Never+Stop+Learning" alt="Typing SVG" />
  
   <br/>
 
