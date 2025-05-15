@@ -45,6 +45,6 @@
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwu114&langs_count=9&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwu114&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 
