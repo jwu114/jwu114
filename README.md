@@ -12,7 +12,7 @@
   
 ## About Me
 
-- 👋 You can call me Jerry. I'm enjoying the gap semester before my master's studies.
+- 👋 You can call me Jerry.
 - 🐱 I'm a cat lover, and my hobbies include fitness, reading books, watching videos, and listening to pop music.  
 - 🔍 I'm interested in AI research (LLM and Multimodal Learning) and software development.
 - 🏠 Feel free to contact me through the following platforms:
