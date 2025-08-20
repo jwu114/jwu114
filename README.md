@@ -12,7 +12,7 @@
   
 ## About Me
 
-- 👋 You can call me Jerry. I'm an incoming graduate student focusing on NLP.
+- 👋 You can call me Jerry. I'm a graduate student focusing on NLP.
 - 🐱 I'm a cat lover, and my hobbies include fitness, making to-do lists, and listening to pop music.  
 - 🔍 I'm interested in AI research (LLM and Multimodal Learning) and full-stack development.
 - 🏠 Feel free to contact me through the following platforms:
